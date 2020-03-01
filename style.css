@@ -276,7 +276,7 @@ button:focus {
 }
 
 #mu-header.mu-fixed-nav{
-	background-color: rgba(0,0,0,0.8);
+	background-color: #e5860d;
 	width: 100%;
 	position: fixed;
 	padding: 15px 0;
@@ -1324,7 +1324,7 @@ button:focus {
 	}
 
 	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
-		background-color: rgba(0,0,0,0.8);
+		background-color: #e5860d;
 		text-align: center;
 	}
 
