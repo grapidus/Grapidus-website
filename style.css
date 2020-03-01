@@ -205,7 +205,7 @@ button:focus {
 /* ========= BUTTON =========*/
 
 .mu-primary-btn {
-	background-color: transparent;
+	background-color: #e5860d;
 	border-radius: 100px;
 	border: solid 1px #ffffff;
 	color: #fff;
@@ -276,7 +276,7 @@ button:focus {
 }
 
 #mu-header.mu-fixed-nav{
-	background-color: #e5860d;
+	background-color: #202020;
 	width: 100%;
 	position: fixed;
 	padding: 15px 0;
@@ -499,7 +499,7 @@ button:focus {
 /*--------------------*/
 
 #mu-counter {
-	background-image: url("assets/images/counter-bg.jpeg");
+	background-image: url("assets/images/seccion-naranja.png");
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -890,7 +890,7 @@ button:focus {
 /*--------------------*/
 /* CLIENT TESTIMONIALS */
 /*--------------------*/
-
+/*
 #mu-testimonials {
 	background-image: url("assets/images/testimonials-bg.jpeg");
 	background-position: center center;
@@ -977,7 +977,7 @@ button:focus {
 	opacity: 1;
 }
 
-
+*/
 /*--------------------*/
 /* CLIENTS */
 /*--------------------*/
