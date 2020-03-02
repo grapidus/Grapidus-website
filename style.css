@@ -1299,7 +1299,13 @@ button:focus {
 	}
 
 	.mu-clients-content-single img{
-		width: 100%;
+		width: 60%;
+		display: block;
+        margin-left: auto;
+        margin-right: auto;
+  
+
+
 	}
 
 	.mu-contact-right {
