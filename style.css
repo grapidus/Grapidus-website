@@ -987,6 +987,7 @@ button:focus {
 	display: inline;
 	float: left;
 	width: 100%;
+	background-color: #f8f8f8;
 }
 
 .mu-clients-area {
@@ -1017,7 +1018,7 @@ button:focus {
 	text-align: left;
 	width: 100%;
 	padding: 15px;
-	
+
 }
 
 
@@ -1026,7 +1027,6 @@ button:focus {
 /*--------------------*/
 
 #mu-contact {
-	background-color: #f8f8f8;
 	display: inline;
 	float: left;
 	width: 100%;
@@ -1051,6 +1051,15 @@ button:focus {
 	float: left;
 	margin-top: 50px;
 	width: 100%;
+}
+
+.textfooter{
+	color: white;
+}
+
+.textgrapidus{
+	text-decoration: none;
+    color: white;
 }
 
 .mu-contact-left {
@@ -1220,6 +1229,8 @@ button:focus {
 	display: inline;
 	float: left;
 	width: 100%;
+	background-color: #202020;
+
 }
 
 .mu-footer-area{
