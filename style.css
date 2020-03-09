@@ -1373,7 +1373,7 @@ button:focus {
 		left: 0;
 		right: 0;
 		bottom: 0;
-		top: 30%;
+		top: 43%;
 		padding: 0 10px;
 	}
 
@@ -1499,12 +1499,4 @@ button:focus {
 }
 
 
-
-@media (max-width: 320px){
-	
-	
-	
-	
-	
-}
 
