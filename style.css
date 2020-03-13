@@ -499,7 +499,7 @@ button:focus {
 /*--------------------*/
 
 #mu-counter {
-	background-image: url("assets/images/seccion-naranja.png");
+	background-image: url("assets/images/seccion-naranja.webp");
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
